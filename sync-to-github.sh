@@ -2,7 +2,7 @@
 
 # === CONFIGURATION ===
 REPO_URL="https://github.com/XERO0000000/ML-Course_codebasics.git"
-BRANCH="main"
+BRANCH="master"
 COMMIT_MESSAGE="${1:-Auto update}"  # You can pass a custom commit message
 
 # === SCRIPT START ===
